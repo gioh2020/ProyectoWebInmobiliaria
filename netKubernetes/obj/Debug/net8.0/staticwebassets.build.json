@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QgwPu7836RbgUpuv8a/hnQWQBPnCmCjyiW/34xpHOxY=",
+  "Source": "netKubernetes",
+  "BasePath": "_content/netKubernetes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
