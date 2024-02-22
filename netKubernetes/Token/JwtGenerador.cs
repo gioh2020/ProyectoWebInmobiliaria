@@ -11,7 +11,7 @@ namespace netKubernetes.Token
         public string CrearToken(Usuario usuario)
         {
             var claims = new List<Claim> {
-                new Claim(JwtRegisteredClaimNames.NameId, usuario.UserName)
+                new Claim(JwtRegisteredClaimNames.NameId, usuario.UserName!)
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("secretKey"));
