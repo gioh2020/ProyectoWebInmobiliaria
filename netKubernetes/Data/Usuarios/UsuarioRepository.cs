@@ -1,7 +1,10 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using netKubernetes.Dto.UsuarioDto;
+using netKubernetes.Middleware;
 using netKubernetes.Models;
 using netKubernetes.Token;
+using System.Net;
 
 namespace netKubernetes.Data.Usuarios
 {
@@ -42,9 +45,14 @@ namespace netKubernetes.Data.Usuarios
             };
         }
 
-        public async Task<UsuarioResponseDto> getUsuario()
+        public async Task<UsuarioResponseDto> GetUsuario()
         {
             var usuario = await _userManager.FindByNameAsync(_usuarioSesion.ObtenerUsuarioSesion());
+            if (usuario is null)
+            {
+                throw new MiddlewareException(HttpStatusCode.Unauthorized, new {mensaje = "El usuario no existe en la base de datos"});
+            }
+
             return TransformerToUserToUserDto(usuario!);
         }
 
@@ -53,12 +61,42 @@ namespace netKubernetes.Data.Usuarios
         public async Task<UsuarioResponseDto> Login(UsuarioLoginRequestDto request)
         {
             var usuario = await _userManager.FindByEmailAsync(request.Email!);
-            await _signInManager.CheckPasswordSignInAsync(usuario!, request.Password!, false);
-            return TransformerToUserToUserDto(usuario!);
+
+            if (usuario is null)
+            {
+                throw new MiddlewareException(HttpStatusCode.Unauthorized, new { mensaje = "El email del usuario no existe en la base de datos" });
+            }
+
+           var resultado = await _signInManager.CheckPasswordSignInAsync(usuario!, request.Password!, false);
+
+
+            if (resultado.Succeeded) 
+            { 
+                return TransformerToUserToUserDto(usuario!);
+                
+            }
+
+            throw new MiddlewareException(HttpStatusCode.Unauthorized, new { mensaje = "Las credenciales son incorrectas" });
         }
 
         public async Task<UsuarioResponseDto> RegistrarUsuario(UsuarioRegistroRequestDtocs request)
         {
+
+            var existeEmail = await _contexto.Users.Where(x => x.Email == request.Email).AnyAsync();
+            var existeUsername = await _contexto.Users.Where(x => x.UserName == request.UserName).AnyAsync();
+
+            if (existeEmail) 
+            {
+                throw new MiddlewareException(HttpStatusCode.BadRequest, new { mensaje = "El email ya existe en la base de datos" });
+
+            }
+
+            if (existeUsername)
+            {
+                throw new MiddlewareException(HttpStatusCode.BadRequest, new { mensaje = "El usuario ya existe en la base de datos" });
+
+            }
+
             var usuario = new Usuario {
          
                 Nombre = request.Nombre,
@@ -69,8 +107,15 @@ namespace netKubernetes.Data.Usuarios
 
             };
 
-            await  _userManager.CreateAsync(usuario, request.Password!);
-            return TransformerToUserToUserDto(usuario);
+            var resultado = await  _userManager.CreateAsync(usuario, request.Password!);
+
+            if (resultado.Succeeded)
+            {
+                return TransformerToUserToUserDto(usuario);
+            
+            }
+
+            throw new Exception("No se pudo registrar el usuario");
         }
     }
 }
