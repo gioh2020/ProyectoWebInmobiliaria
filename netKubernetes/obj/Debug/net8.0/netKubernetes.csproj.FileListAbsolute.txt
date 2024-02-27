@@ -142,3 +142,5 @@ C:\Users\giova\OneDrive\Escritorio\netKubernetes\netKubernetes\obj\Debug\net8.0\
 C:\Users\giova\OneDrive\Escritorio\netKubernetes\netKubernetes\obj\Debug\net8.0\netKubernetes.pdb
 C:\Users\giova\OneDrive\Escritorio\netKubernetes\netKubernetes\obj\Debug\net8.0\netKubernetes.genruntimeconfig.cache
 C:\Users\giova\OneDrive\Escritorio\netKubernetes\netKubernetes\obj\Debug\net8.0\ref\netKubernetes.dll
+C:\Users\giova\OneDrive\Escritorio\netKubernetes\netKubernetes\obj\Debug\net8.0\netKubernetes.sourcelink.json
+C:\Users\giova\OneDrive\Escritorio\netKubernetes\netKubernetes\bin\Debug\net8.0\AutoMapper.dll

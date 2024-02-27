@@ -2,7 +2,7 @@
 
 namespace netKubernetes.Data.Inmuebles
 {
-    public interface IInmubleRepository
+    public interface IInmubleRepositorycs
     {
         Task<bool> SaveChanges();
         Task<IEnumerable<Inmueble>> GetAllInmuebles();
