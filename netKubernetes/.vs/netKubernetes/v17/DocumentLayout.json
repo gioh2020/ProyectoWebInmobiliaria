@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\inmuebles\\iinmublerepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\inmuebles\\iinmublerepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\inmuebles\\inmueblerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\inmuebles\\inmueblerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\usuarios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\profiles\\inmuebleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:profiles\\inmuebleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\controllers\\inmueblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:controllers\\inmueblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\dto\\inmuebledto\\inmueblerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:dto\\inmuebledto\\inmueblerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\dto\\inmuebledto\\inmuebleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:dto\\inmuebledto\\inmuebleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\middleware\\managermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:middleware\\managermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\middleware\\middlewareexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:middleware\\middlewareexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\usuarios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\usuarios\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\dto\\usuariodto\\usuarioregistrorequestdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:dto\\usuariodto\\usuarioregistrorequestdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\dto\\usuariodto\\usuariologinrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:dto\\usuariodto\\usuariologinrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\dto\\usuariodto\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:dto\\usuariodto\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\token\\usuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:token\\usuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +75,28 @@
       "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:token\\iusuariosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\token\\jwtgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:token\\jwtgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\token\\ijwtgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:token\\ijwtgenerador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\loaddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\loaddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\models\\inmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:models\\inmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|c:\\users\\giova\\onedrive\\escritorio\\netkubernetes\\netkubernetes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D208A99F-3BC2-4019-9475-A8E0ECC658BB}|netKubernetes.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +106,318 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAA2AAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwEoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T18:36:40.728Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-02-21T02:42:46.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUsuarioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\IUsuarioSesion.cs",
-              "RelativeDocumentMoniker": "Token\\IUsuarioSesion.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\IUsuarioSesion.cs",
-              "RelativeToolTip": "Token\\IUsuarioSesion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T19:55:12.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\UsuarioSesion.cs",
-              "RelativeDocumentMoniker": "Token\\UsuarioSesion.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\UsuarioSesion.cs",
-              "RelativeToolTip": "Token\\UsuarioSesion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T19:54:59.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IJwtGenerador.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\IJwtGenerador.cs",
-              "RelativeDocumentMoniker": "Token\\IJwtGenerador.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\IJwtGenerador.cs",
-              "RelativeToolTip": "Token\\IJwtGenerador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T19:43:34.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JwtGenerador.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\JwtGenerador.cs",
-              "RelativeDocumentMoniker": "Token\\JwtGenerador.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\JwtGenerador.cs",
-              "RelativeToolTip": "Token\\JwtGenerador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T19:42:53.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoadDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\LoadDataBase.cs",
-              "RelativeDocumentMoniker": "Data\\LoadDataBase.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\LoadDataBase.cs",
-              "RelativeToolTip": "Data\\LoadDataBase.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T18:45:12.502Z",
+              "WhenOpened": "2024-02-22T01:58:06.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "Title": "InmuebleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Profiles\\InmuebleProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\InmuebleProfile.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Profiles\\InmuebleProfile.cs",
+              "RelativeToolTip": "Profiles\\InmuebleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T18:28:32.047Z",
+              "WhenOpened": "2024-02-22T02:57:26.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T03:00:05.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Usuarios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Usuarios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Usuarios\\UsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Usuarios\\UsuarioRepository.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAUwHcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T02:20:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InmuebleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Inmuebles\\InmuebleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Inmuebles\\InmuebleRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Inmuebles\\InmuebleRepository.cs",
+              "RelativeToolTip": "Data\\Inmuebles\\InmuebleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T03:19:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInmubleRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Inmuebles\\IInmubleRepositorycs.cs",
+              "RelativeDocumentMoniker": "Data\\Inmuebles\\IInmubleRepositorycs.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Inmuebles\\IInmubleRepositorycs.cs",
+              "RelativeToolTip": "Data\\Inmuebles\\IInmubleRepositorycs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:14:07.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "InmuebleController.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Controllers\\InmuebleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InmuebleController.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Controllers\\InmuebleController.cs",
+              "RelativeToolTip": "Controllers\\InmuebleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T01:58:45.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InmuebleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\InmuebleDto\\InmuebleRequestDto.cs",
+              "RelativeDocumentMoniker": "Dto\\InmuebleDto\\InmuebleRequestDto.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\InmuebleDto\\InmuebleRequestDto.cs",
+              "RelativeToolTip": "Dto\\InmuebleDto\\InmuebleRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:24:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InmuebleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\InmuebleDto\\InmuebleResponseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\InmuebleDto\\InmuebleResponseDto.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\InmuebleDto\\InmuebleResponseDto.cs",
+              "RelativeToolTip": "Dto\\InmuebleDto\\InmuebleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T03:24:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Middleware\\ManagerMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ManagerMiddleware.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Middleware\\ManagerMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ManagerMiddleware.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:56:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiddlewareException.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Middleware\\MiddlewareException.cs",
+              "RelativeDocumentMoniker": "Middleware\\MiddlewareException.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Middleware\\MiddlewareException.cs",
+              "RelativeToolTip": "Middleware\\MiddlewareException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T03:20:51.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Usuarios\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Usuarios\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\Usuarios\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Data\\Usuarios\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:25:30.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioLoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\UsuarioDto\\UsuarioLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UsuarioDto\\UsuarioLoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\UsuarioDto\\UsuarioLoginRequestDto.cs",
+              "RelativeToolTip": "Dto\\UsuarioDto\\UsuarioLoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T02:28:33.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\UsuarioDto\\UsuarioResponseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UsuarioDto\\UsuarioResponseDto.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\UsuarioDto\\UsuarioResponseDto.cs",
+              "RelativeToolTip": "Dto\\UsuarioDto\\UsuarioResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T02:22:50.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioRegistroRequestDtocs.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\UsuarioDto\\UsuarioRegistroRequestDtocs.cs",
+              "RelativeDocumentMoniker": "Dto\\UsuarioDto\\UsuarioRegistroRequestDtocs.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Dto\\UsuarioDto\\UsuarioRegistroRequestDtocs.cs",
+              "RelativeToolTip": "Dto\\UsuarioDto\\UsuarioRegistroRequestDtocs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T02:30:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\UsuarioSesion.cs",
+              "RelativeDocumentMoniker": "Token\\UsuarioSesion.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\UsuarioSesion.cs",
+              "RelativeToolTip": "Token\\UsuarioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:48:33.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUsuarioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\IUsuarioSesion.cs",
+              "RelativeDocumentMoniker": "Token\\IUsuarioSesion.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\IUsuarioSesion.cs",
+              "RelativeToolTip": "Token\\IUsuarioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:26:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtGenerador.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\JwtGenerador.cs",
+              "RelativeDocumentMoniker": "Token\\JwtGenerador.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Token\\JwtGenerador.cs",
+              "RelativeToolTip": "Token\\JwtGenerador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T03:19:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoadDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\LoadDataBase.cs",
+              "RelativeDocumentMoniker": "Data\\LoadDataBase.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\LoadDataBase.cs",
+              "RelativeToolTip": "Data\\LoadDataBase.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:19:43.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:39:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Inmueble.cs",
               "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Models\\Inmueble.cs",
               "RelativeDocumentMoniker": "Models\\Inmueble.cs",
               "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Models\\Inmueble.cs",
               "RelativeToolTip": "Models\\Inmueble.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-17T18:27:59.452Z",
+              "WhenOpened": "2024-02-27T01:12:01.982Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T03:00:01.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T02:42:48.088Z"
             }
           ]
         }

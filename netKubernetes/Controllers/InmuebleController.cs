@@ -10,10 +10,10 @@ namespace netKubernetes.Controllers
 {
     public class InmuebleController : ControllerBase
     {
-        private readonly IInmubleRepository _repository;
+        private readonly IInmubleRepositorycs _repository;
         private IMapper _mapper;
         public InmuebleController(
-            IInmubleRepository repository
+            IInmubleRepositorycs repository
             , IMapper mapper
         )
         {

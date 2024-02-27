@@ -26,7 +26,7 @@ namespace netKubernetes.Controllers
 
         [AllowAnonymous]
         [HttpPost("registrar")]
-        public async Task<ActionResult<UsuarioResponseDto>> registrar([FromBody] UsuarioRegistroRequestDtocs request)
+        public async Task<ActionResult<UsuarioResponseDto>> Registrar([FromBody] UsuarioRegistroRequestDtocs request)
         {
             return await _repository.RegistrarUsuario(request);
 

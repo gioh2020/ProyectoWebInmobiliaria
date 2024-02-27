@@ -7,7 +7,7 @@ using System.Net;
 
 namespace netKubernetes.Data.Inmuebles
 {
-    public class InmuebleRepository : IInmubleRepository
+    public class InmuebleRepository : IInmubleRepositorycs
     {
         private readonly AppDbContext _contexto;
         private readonly IUsuarioSesion _usuarioSesion;
@@ -65,7 +65,7 @@ namespace netKubernetes.Data.Inmuebles
 
         public async Task<bool> SaveChanges()
         {
-            return  ((await _contexto.SaveChanges()) >= 0);
+            return  ( (await _contexto.SaveChangesAsync()) >= 0);
         }
     }
 }
