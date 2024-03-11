@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROciSAMNWaAVxwP6x+9Vm7RGwSyXtERkhYH6EluCksngB6BPuw/V8XB8qspvrNGpQbHyYGby0whFwBqgsQ9BEQ==",
+  "dgSpecHash": "kIcZRLB3IUCcUP99qRI0pglVK2OQyp54KJkXmvnhc7py9W1VBu5Egot43ZYXr8YNgnvP3Q6Y9Kg30aSHQZXryA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\netKubernetes.csproj",
+  "projectFilePath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes1\\netKubernetes\\netKubernetes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giova\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\giova\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

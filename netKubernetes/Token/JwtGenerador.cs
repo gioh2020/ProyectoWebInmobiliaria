@@ -14,7 +14,7 @@ namespace netKubernetes.Token
                 new Claim(JwtRegisteredClaimNames.NameId, usuario.UserName!)
             };
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("secretKey"));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("ThisIsMysecretKey12345123451234512345ThisIsMysecretKey12345123451234512345"));
             var credenciales = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
             var tokenDescripcion = new SecurityTokenDescriptor {
