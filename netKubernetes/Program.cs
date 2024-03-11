@@ -20,7 +20,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.LogTo(Console.WriteLine, new [] {DbLoggerCategory.Database.Command.Name }, LogLevel.Information).EnableSensitiveDataLogging();
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("SQLServerConnection"));
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("SQLServerConnetion"));
     });
 
 builder.Services.AddScoped<IInmubleRepositorycs, InmuebleRepository>();
@@ -53,7 +53,7 @@ builder.Services.AddScoped<IJwtGenerador, JwtGenerador>();
 builder.Services.AddScoped<IUsuarioSesion, UsuarioSesion>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
-var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("secretKey"));
+var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("ThisIsMysecretKey12345123451234512345ThisIsMysecretKey12345123451234512345"));
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(opt =>
     {
