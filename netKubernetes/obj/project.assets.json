@@ -4455,11 +4455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\netKubernetes.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes1\\netKubernetes\\netKubernetes.csproj",
       "projectName": "netKubernetes",
-      "projectPath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\netKubernetes.csproj",
+      "projectPath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes1\\netKubernetes\\netKubernetes.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes\\netKubernetes\\obj\\",
+      "outputPath": "C:\\Users\\giova\\OneDrive\\Escritorio\\netKubernetes1\\netKubernetes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
