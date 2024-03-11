@@ -21,7 +21,7 @@ namespace netKubernetes.Data.Usuarios
             SignInManager<Usuario> signInManager,
             IJwtGenerador jwtGenerador,
             AppDbContext contexto,
-            UsuarioSesion usuarioSesion     
+            IUsuarioSesion usuarioSesion     
         )
         {
             _userManager = userManager;
