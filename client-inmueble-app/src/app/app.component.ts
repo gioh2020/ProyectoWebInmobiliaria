@@ -10,7 +10,7 @@ import { AngularFirestore } from '@angular/fire/compat/firestore';
 })
 export class AppComponent implements OnInit{
   title = 'cli-inmueble-app';
-
+  showSpinner = false;
 
   constructor(private angularFireStore: AngularFirestore) {
     
@@ -20,5 +20,9 @@ export class AppComponent implements OnInit{
     this.angularFireStore.collection('test').stateChanges().subscribe(personas => {
       console.log(personas?.map(x=>  x.payload.doc.data()))
     })
+  }
+
+  onToggleSpinner() : void {
+    this.showSpinner = !this.showSpinner
   }
 }
