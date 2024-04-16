@@ -4,11 +4,15 @@ import { FilesUploadModule } from './files-upload/files-upload.module';
 
 
 
+
 @NgModule({
-  declarations: [],
+  declarations: [
+
+  ],
   imports: [
     CommonModule,
     FilesUploadModule
+    
   ],
   exports: [
     FilesUploadModule
