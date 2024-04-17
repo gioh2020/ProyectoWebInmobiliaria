@@ -1,1 +1,22 @@
-<p>asdasd-upload works!</p>
+<div class="files-upload">
+    <div class="files-upload__header">
+        <h3>Files uploading</h3>
+    </div>
+
+    <div class="files-upload__content">
+        <div class="dropzone" appDropZone (hovered)="toggleHover($event)" [class.dropzone__hovered]="isHovering">
+
+            <div class="dropzone__label">deja tus archivos aqui</div>
+            <div class="dropzone__file">
+                <label for="" class="file">
+                    <input class="file__input">
+                    <span class="file__label">Selecionar</span>
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <div class="files-upload_footer">
+
+    </div>
+</div>
