@@ -11,5 +11,9 @@ export class FilesUploadComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  isHovering!: boolean
+  toggleHover(event:boolean){
+    this.isHovering = event
+  }
 
 }
