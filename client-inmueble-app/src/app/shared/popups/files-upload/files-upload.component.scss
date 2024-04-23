@@ -40,15 +40,36 @@
 }
 
 .file {
+    position: relative;
+    display: inline-block; /* Añadir esto para que el contenedor tenga solo el tamaño del contenido */
+
     &__input {
-        display: none;
-    }
-    &__label {
-        color: $primary;
-        &:hover{ 
-            color: $primary-dark;
-            cursor: pointer;
-        }
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%; /* Ocupa todo el ancho del contenedor */
+        height: 100%; /* Ocupa todo el alto del contenedor */
+        opacity: 0;
+        cursor: pointer;
     }
 
+    &__label {
+        color: $primary;
+        display: inline-block; /* Añadir esto para que ocupe el espacio necesario */
+        padding: 8px 16px; /* Ajustar el relleno según sea necesario */
+        border: 1px solid transparent; /* Añadir un borde para que se vea el área de interacción */
+        border-radius: 4px; /* Opcional: agregar bordes redondeados */
+        
+        &:hover {
+            color: $primary-dark;
+            cursor: pointer;
+            border-color: $primary-dark; /* Cambiar el color del borde al pasar el ratón */
+        }
+    }
+}
+
+.error{
+    color: $error;
+    text-align: center;
+    padding: 12px;
 }
