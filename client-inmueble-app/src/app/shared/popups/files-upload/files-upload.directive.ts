@@ -21,7 +21,9 @@ export class FilesUploadDirective {
     const dialogRef = this.dialog.open(FilesUploadComponent, {
       width: '550px',
       height: '500px',
-      
+      data: {
+        multiple: this.multiple,
+      }
     })
 
     dialogRef.afterClosed().subscribe(result => {
