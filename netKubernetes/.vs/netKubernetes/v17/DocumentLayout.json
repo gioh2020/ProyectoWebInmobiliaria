@@ -42,8 +42,7 @@
               "RelativeToolTip": "Token\\JwtGenerador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T00:35:14.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T00:35:14.062Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T00:28:41.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T00:28:41.516Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Data\\LoadDataBase.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAzwA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T00:28:32.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T00:28:32.209Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Data\\Usuarios\\UsuarioRepository.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T00:28:23.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T00:28:23.99Z"
             }
           ]
         }
