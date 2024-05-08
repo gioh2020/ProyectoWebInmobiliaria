@@ -1,3 +1,5 @@
 <button  (click)="onToggleSpinner()">adsa</button>
 <app-spinner *ngIf="showSpinner"></app-spinner>
 <button appFilesUpload [multiple]="true" (changed)="onFilesChanged($event)">Subir Imagenes al servidor</button>
+<button (click)="onSuccess()">Mensaje exito</button>
+<button (click)="onError()">Mensaje onError</button>
