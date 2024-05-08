@@ -1,0 +1,32 @@
+<div class="upload">
+    {{file.name}}
+
+    <progress class="upload__progress" [value]="(percentage$ | async) || 0" max="100">
+
+    </progress>
+
+    <div class="upload__info" *ngIf="snapshot$ | async as snapshot">
+        <div>
+            {{snapshot.bytesTransferred | fileSize}} of {{snapshot.totalBytes | fileSize}}
+        </div>
+
+        <div>
+            <div *ngIf="downLoadUrl; then completed else inProgress"></div>
+            <ng-template #completed>
+                <a [href]="downLoadUrl" class="app-a" target="_blank" rel="noopener">Descarga</a>
+            </ng-template>
+
+            <ng-template #inProgress>
+                <button (click)="task.pause()" class="button"
+                    [disabled]="!(snapshot?.state === 'running')">Pausar</button>
+                <button (click)="task.resume()" class="button"
+                    [disabled]="!(snapshot?.state === 'running')">Continuar</button>
+                <button (click)="task.resume()" class="button"
+                    [disabled]="!(snapshot?.state === 'paused')">Continuar</button>
+
+            </ng-template>
+        </div>
+    </div>
+
+
+</div>
