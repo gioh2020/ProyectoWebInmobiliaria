@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { environment } from '@src/environments/environment';
-import { test } from './test';
 import { AngularFirestore } from '@angular/fire/compat/firestore';
+import { NotificationService } from './services'; 
 
 @Component({
   selector: 'app-root',
@@ -12,7 +11,7 @@ export class AppComponent implements OnInit{
   title = 'cli-inmueble-app';
   showSpinner = false;
 
-  constructor(private angularFireStore: AngularFirestore) {
+  constructor(private angularFireStore: AngularFirestore, private notification: NotificationService) {
     
     
   }
@@ -27,5 +26,12 @@ export class AppComponent implements OnInit{
   }
   onFilesChanged(urls: any ) : void{
     console.log("aaa", urls)
+  }
+
+  onSuccess() : void {
+    this.notification.success('exitoso')
+  }
+  onError() : void {
+    this.notification.error('error')
   }
 }
