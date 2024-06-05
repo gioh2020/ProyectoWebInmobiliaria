@@ -12,8 +12,8 @@ using netKubernetes.Data;
 namespace netKubernetes.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240307025300_miPrimeraMigracion")]
-    partial class miPrimeraMigracion
+    [Migration("20240531133527_miPrimeraMigra")]
+    partial class miPrimeraMigra
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

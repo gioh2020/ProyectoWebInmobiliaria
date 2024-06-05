@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace netKubernetes.Migrations
 {
     /// <inheritdoc />
-    public partial class miPrimeraMigracion : Migration
+    public partial class miPrimeraMigra : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
