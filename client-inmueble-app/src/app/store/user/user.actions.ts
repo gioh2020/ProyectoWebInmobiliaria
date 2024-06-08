@@ -62,7 +62,7 @@ export class SignUpEmail implements Action {
 
 export class SignUpEmailSuccess implements Action {
     readonly type = Types.SIGN_UP_EMAIL_SUCCESS;
-    constructor(public email: string, public user: UserCreateRequest | null){};
+    constructor(public email: string, public user: UserResponse | null){};
 
 }
 
@@ -87,17 +87,16 @@ export class SignOutError implements Action {
 }
 
 export type ALL = 
-Init
-InitAuthorized
-InitAnauthorized
-InitError
-SignInEmail
-SignInEmailSuccess
-SignInEmailError
-SignUpEmail
-SignUpEmailSuccess
-SignUpEmailError
-SignOut
-SignOutSuccess
-SignOutError
-
+    Init |
+    InitAuthorized |
+    InitAnauthorized |
+    InitError |
+    SignInEmail |
+    SignInEmailSuccess |
+    SignInEmailError |
+    SignUpEmail |
+    SignUpEmailSuccess |
+    SignUpEmailError |
+    SignOut |
+    SignOutSuccess |
+    SignOutError;
