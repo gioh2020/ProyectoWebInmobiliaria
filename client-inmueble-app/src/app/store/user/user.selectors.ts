@@ -16,5 +16,5 @@ export const getLoading = createSelector(
 
 export const getIsAunthorized = createSelector(
     getUserState,
-    (state) => state.id
+    (state) => !!state.email
 )
