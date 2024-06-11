@@ -6,6 +6,7 @@ export interface UserState {
     id: string | null
     loading: boolean | null
     error: string | null
+    email: string | null
 }
 
 const initialState : UserState = {
@@ -13,6 +14,7 @@ const initialState : UserState = {
     id:  null,
     loading:  null,
     error:null,
+    email: null
 }
 
 export function reducer(state = initialState, action: fromActions.ALL | any ): UserState {
