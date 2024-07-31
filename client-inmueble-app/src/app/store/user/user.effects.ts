@@ -56,8 +56,10 @@ export class UserEffects {
             switchMap(userData =>
                 this.httpClient.post<UserResponse>(`${environment.url}api/usuario/login`, userData)
                     .pipe(
+                        
                         tap((response: UserResponse) => {
                             localStorage.setItem('token', response.token);
+                            console.log('response',response)
                             this.router.navigate(['/'])
                         }),
                         map((response: UserResponse) => new fromActions.SignInEmailSuccess(response.email, response || null)),

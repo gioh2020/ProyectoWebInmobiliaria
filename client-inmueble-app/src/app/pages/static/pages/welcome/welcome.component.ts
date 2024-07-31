@@ -15,7 +15,7 @@ export class WelcomeComponent implements OnInit {
   constructor(private store: Store<fromRoot.State>, ) { }
 
   ngOnInit(): void {
-    console.log('bb', this.store.pipe(select(fromUser.getIsAunthorized)) as Observable<boolean>)
+    console.log('bb', this.store.pipe(select(fromUser.getIsAuthorized)) as Observable<boolean>)
 
   }
 

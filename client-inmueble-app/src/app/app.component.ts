@@ -24,7 +24,9 @@ export class AppComponent implements OnInit {
   }
   ngOnInit(): void {
     this.user$ = this.store.pipe(select(fromUser.getUser)) as Observable<fromUser.UserResponse>
-    this.isAuthorized$ = this.store.pipe(select(fromUser.getIsAunthorized)) as Observable<boolean>
+    this.isAuthorized$ = this.store.pipe(select(fromUser.getIsAuthorized)) as Observable<boolean>
+    this.store.dispatch(new fromUser.Init())
+
 
     this.angularFireStore.collection('test').stateChanges().subscribe(personas => {
       console.log(personas?.map(x => x.payload.doc.data()))
@@ -46,7 +48,9 @@ export class AppComponent implements OnInit {
   }
   onSignOut (): void {
     localStorage.removeItem('token')
+    console.log(this.user$)
     this.store.dispatch(new fromUser.SignOut());
+   
     this.router.navigate(['/auth/login'])
   }
 }
